@@ -26,15 +26,15 @@ A simple web application built with React for managing employee leave requests, 
 ## Features
 
 - This project consisting of a Home Login page where User, Manager, and Hr can login 
-- ![image](https://drive.google.com/file/d/15ykcLbkex5IZzjTWPaRqPrVR1p1OVrOf/view?usp=sharing)
+- ![image](https://github.com/harshgupta05/emp_leave_management_app/blob/main/assest/manager_image.png)
 
   
 - In Manager Dashboard All Leaves details are shown and manager and hr can directly approve from that list 
--![image](https://drive.google.com/file/d/1pfvw-dcFzox9rlSmo6wmxtoH449pLtnI/view?usp=sharing)
+-![image](https://github.com/harshgupta05/emp_leave_management_app/blob/main/assest/dashboardimage2.png)
 
   
 - In Employee dashboard Employee can see there all Leave applications and their status and also Submit a new application for leave.
-- ![image](https://drive.google.com/file/d/19EnkXTermwmDINZ_7FRcStqOCBFzJbIF/view?usp=sharing)
+- ![image](https://github.com/harshgupta05/emp_leave_management_app/blob/main/assest/dahsboardImage3.png)
 
 
 ## Getting Started
