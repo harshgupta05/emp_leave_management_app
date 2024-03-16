@@ -3,26 +3,25 @@
 Project is Live Here 
 https://imaginative-panda-ef964d.netlify.app/
 
-Home Page design.
-
-- Username : Yourname
-- For employee login Use  email:- employee@gmail.com, Password:- Employee@123
-- For Manager login Use  email:- manager@gmail.com, Password:- Manager@123
-- For Hr login Use  email:- hr@gmail.com, Password:- Hr@123
-
-
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Users Login Credentials](#users-login-credentials) 
 - [Features](#features)
 - [Getting Started](#getting-started)
-  - [Installation](#installation)
-
+- [Installation](#installation)
 
 ## Introduction
 
 A simple web application built with React for managing employee leave requests, allowing employees to request leaves, managers to approve or reject those requests, and HR personnel to view overall leave trends.
 
+##  Users Login Credentials
+
+- Username : Yourname
+- For employee login Use  email:- employee@gmail.com, Password:- Employee@123
+- For Manager login Use  email:- manager@gmail.com, Password:- Manager@123
+- For Hr login Use  email:- hr@gmail.com, Password:- Hr@123
+  
 ## Features
 
 - This project consisting of a Home Login page where User, Manager, and Hr can login 
